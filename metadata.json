@@ -1,0 +1,6 @@
+{
+  "name": "StoryCanvas Video Generator",
+  "description": "An AI-powered consistent character video storyboard generator using Gemini 2.5 Flash Image. Enter a story, provide references, and get cohesive image-to-video scenes with voiceover text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
